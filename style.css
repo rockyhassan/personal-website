@@ -1,0 +1,153 @@
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+section{
+    height: 500px;
+}
+
+.top-banner{
+    padding-top: 50px;
+}
+
+h1{
+    font-size: 70px;
+    font-weight: 500;
+}
+
+h2{
+    color:rgba(54, 57, 88, 1);
+    font-size: 48px;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 500;
+}
+
+h3{
+    color:rgba(54, 57, 88, 1); 
+    font-size: 22px;
+    font-weight: 700;
+}
+
+#hello{
+    font-family: 'Bebas Neue', cursive;
+    color: rgba(54, 57, 88, 1);
+    margin-bottom: 0;
+}
+
+#rocky-hassan{
+    font-family: 'Bebas Neue', cursive;
+    color: rgba(255, 131, 103, 1);
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+#about{
+    margin-bottom: 30px;
+}
+
+#about-right{
+    padding-left: 100px;
+    padding-top: 100px;
+}
+
+.link-button{
+    text-decoration: none;
+    padding: 15px 45px;
+    background-image: linear-gradient(90deg, tomato, salmon);
+    border-radius: 5px;
+    color: white;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.half-width img{
+    width: 100%;
+}
+
+.description{
+    padding-bottom: 25px;
+}
+
+.about{
+    margin-bottom: 150px;
+}
+
+p{
+    color:rgba(62, 62, 62, 1);
+}
+
+.orange-highlight{
+    color: rgba(244, 96, 96, 1);
+}
+
+.latest-work{
+    text-align: center;
+    background-color: #F8F9FC;
+    padding-left: 10%;
+    padding-right: 5%;
+    padding-top: 70px;
+    padding-bottom: 200px;
+}
+
+.one-third-width{
+    width: 25%;
+    float: left;
+    margin-left: 3%;
+    padding: 20px;
+    box-shadow: 1px 1px 5px lightgray;
+    border-radius: 20px;
+    background-color: white;
+    text-align: left;
+    margin-top: 40px;
+}
+
+.one-third-width img{
+width: 100%;
+}
+
+.one-third-width p{
+    color: gray;
+}
+
+.inquiry-area{
+    background-image: url(shapes/Group_33094_1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 500px;
+    background-size: 62%;
+}
+
+.inquiry-1{
+    width: 40%;
+    float: left;
+    margin-top: 165px;
+    margin-left: 325px;
+
+}
+
+.inquiry-1 h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 60px;
+    color: white;
+}
+
+.inquiry-2{
+    width: 20%;
+    float: right;
+    margin-top: 243px;
+    margin-right: 182px;
+}
+
+.chat-button{
+    text-decoration: none;
+    padding: 20px 30px;
+    background-image: linear-gradient(180deg, tomato, salmon);
+    border-radius: 5px;
+    color: white;
+}
